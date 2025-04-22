@@ -9,7 +9,7 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default"
-title                    : "Junjia Space"
+title                    : "Junjia's Space"
 title_separator          : "-"
 name                     : &name "Your Name"
 description              : &description "personal description"
