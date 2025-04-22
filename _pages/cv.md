@@ -11,14 +11,14 @@ redirect_from:
 
 Education
 ======
-* M.Phil. in Microelectronics, Hong Kong University of Science and Technology (GuangZhou), 2027 (expected)
+* M.Phil. in Microelectronics, Hong Kong University of Science and Technology (Guangzhou), 2027 (expected)
 * B.S. in Optoelectronic Information Science and Engineering, Sun Yat-Sen University, 2025
 
 Internship
 ======
 * May 2025 - August 2025: Research Assistant
   * Hong Kong University of Science and Technology(GZ), Guangzhou, China
-  * Supervisor: [Prof. Zhirui Zong]
+  * Supervisor: [Prof. Zhirui Zong](https://facultyprofiles.hkust-gz.edu.cn/faculty-personal-page/ZONG-Zhirui/zong)
 
 * February 2025 - April 2025: Intern Student
   * Westlake Lingxi Tech Co., Ltd, Hangzhou, China
@@ -29,11 +29,6 @@ Internship
   * CenBRAIN of Westlake University, Hangzhou, China
   * Undergraduate Project: Optogenetic Stimulator IC Design
   * Supervisor: [Prof. Sawan](https://mohamadsawan.org/), Mentor: [Dr. Yang Jie](https://yangjie.ac.cn/)
-
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
   
 Skills
 ======
