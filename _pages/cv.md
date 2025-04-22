@@ -22,7 +22,7 @@ Internship
 
 * February 2025 - April 2025: Intern Student
   * Westlake Lingxi Tech Co., Ltd, Hangzhou, China
-  * Duties includes: Updates and improvements to template
+  * Duties includes: LDO and operational amplifier design based on electrical stimulator
   * Mentor: [Dr. Yang Jie](https://yangjie.ac.cn/)
 
 * August 2024 - February 2025: Visiting Student
