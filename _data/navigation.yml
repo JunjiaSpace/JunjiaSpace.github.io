@@ -9,22 +9,22 @@
 
 main:
   - title: "Publications"
-    url: https://junjiaspace.github.io//publications/
+    url: /publications/
 
   - title: "Talks"
-    url: https://junjiaspace.github.io//talks/    
+    url: /talks/    
 
   - title: "Teaching"
-    url: https://junjiaspace.github.io//teaching/    
+    url: /teaching/    
     
   - title: "Portfolio"
-    url: https://junjiaspace.github.io//portfolio/
+    url: /portfolio/
         
   - title: "Blog Posts"
-    url: https://junjiaspace.github.io//year-archive/
+    url: /year-archive/
     
   - title: "CV"
-    url: https://junjiaspace.github.io//cv/
+    url: /cv/
     
   # - title: "CV"
   #   url: /cv-json/
