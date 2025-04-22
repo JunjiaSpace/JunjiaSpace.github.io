@@ -12,22 +12,22 @@ redirect_from:
 教育背景
 ======
 * 微电子学哲学硕士
-  * 2025.8 - 现在，香港科技大学（广州），功能枢纽微电子学域
+  * 2025年8月 - 现在，香港科技大学（广州），功能枢纽微电子学域
 * 光电信息科学与工程理学学士
-  * 2021.9 - 2025.6，中山大学，物理学院
+  * 2021年9月 - 2025年6月，中山大学，物理学院
 
 实习经历
 ======
-* May 2025 - August 2025: Research Assistant
+* 2025年5月 - 2025年8月: Research Assistant
   * Hong Kong University of Science and Technology(GZ), Guangzhou, China
   * Supervisor: [Prof. Zhirui Zong](https://facultyprofiles.hkust-gz.edu.cn/faculty-personal-page/ZONG-Zhirui/zong)
 
-* February 2025 - April 2025: Intern Student
+* 2025年2月 - 2025年4月: Intern Student
   * Westlake Lingxi Tech Co., Ltd, Hangzhou, China
   * Duties includes: LDO and operational amplifier design based on electrical stimulator
   * Mentor: [Dr. Yang Jie](https://yangjie.ac.cn/)
 
-* August 2024 - February 2025: Visiting Student
+* 2024年8月 - 2025年2月: Visiting Student
   * CenBRAIN of Westlake University, Hangzhou, China
   * Undergraduate Project: Optogenetic Stimulator IC Design
   * Supervisor: [Prof. Sawan](https://mohamadsawan.org/), Mentor: [Dr. Yang Jie](https://yangjie.ac.cn/)
