@@ -18,16 +18,16 @@ redirect_from:
 
 实习经历
 ======
-* 2025年5月 - 2025年8月: Research Assistant
+* 2025年5月 - 2025年8月: 研究助理
   * Hong Kong University of Science and Technology(GZ), Guangzhou, China
   * Supervisor: [Prof. Zhirui Zong](https://facultyprofiles.hkust-gz.edu.cn/faculty-personal-page/ZONG-Zhirui/zong)
 
-* 2025年2月 - 2025年4月: Intern Student
+* 2025年2月 - 2025年4月: 实习生
   * Westlake Lingxi Tech Co., Ltd, Hangzhou, China
   * Duties includes: LDO and operational amplifier design based on electrical stimulator
   * Mentor: [Dr. Yang Jie](https://yangjie.ac.cn/)
 
-* 2024年8月 - 2025年2月: Visiting Student
+* 2024年8月 - 2025年2月: 访问学生
   * CenBRAIN of Westlake University, Hangzhou, China
   * Undergraduate Project: Optogenetic Stimulator IC Design
   * Supervisor: [Prof. Sawan](https://mohamadsawan.org/), Mentor: [Dr. Yang Jie](https://yangjie.ac.cn/)
