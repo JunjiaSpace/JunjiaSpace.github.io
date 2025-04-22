@@ -11,8 +11,10 @@ redirect_from:
 
 教育背景
 ======
-* M.Phil. in Microelectronics, Hong Kong University of Science and Technology (Guangzhou), August 2025 - present
-* B.S. in Optoelectronic Information Science and Engineering, Sun Yat-Sen University, September 2021 - June 2025
+* 微电子学哲学硕士
+  * 2025.8 - 现在，香港科技大学（广州），功能枢纽微电子学域
+* 光电信息科学与工程理学学士
+  * 2021.9 - 2025.6，中山大学，物理学院
 
 实习经历
 ======
