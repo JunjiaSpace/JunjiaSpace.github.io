@@ -11,8 +11,8 @@ redirect_from:
 
 Education
 ======
-* M.Phil. in Microelectronics, Hong Kong University of Science and Technology (Guangzhou), 2027 (expected)
-* B.S. in Optoelectronic Information Science and Engineering, Sun Yat-Sen University, 2025
+* M.Phil. in Microelectronics, Hong Kong University of Science and Technology (Guangzhou), August 2025 - present
+* B.S. in Optoelectronic Information Science and Engineering, Sun Yat-Sen University, September 2021 - June 2025
 
 Internship
 ======
