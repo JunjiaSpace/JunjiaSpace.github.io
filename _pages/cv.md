@@ -1,4 +1,4 @@
----
+![image](https://github.com/user-attachments/assets/aa99aaf0-8266-49ee-aba7-2325540e0d4e)---
 layout: archive
 title: "CV"
 permalink: /cv/
@@ -11,20 +11,24 @@ redirect_from:
 
 Education
 ======
-* M.Phil. in Microelectronics, The Hong Kong University of Science and Technology (GuangZhou), 2027 (expected)
+* M.Phil. in Microelectronics, Hong Kong University of Science and Technology (GuangZhou), 2027 (expected)
 * B.S. in Optoelectronic Information Science and Engineering, Sun Yat-Sen University, 2025
 
-Work experience
+Internship
 ======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* May 2025 - August 2025: Research Assistant
+  * Hong Kong University of Science and Technology(GZ), Guangzhou, China
+  * Supervisor: [Prof. Zhirui Zong]
 
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* February 2025 - April 2025: Intern Student
+  * Westlake Lingxi Tech Co., Ltd, Hangzhou, China
+  * Duties includes: Updates and improvements to template
+  * Mentor: [Dr. Yang Jie](https://yangjie.ac.cn/)
+
+* August 2024 - February 2025: Visiting Student
+  * CenBRAIN of Westlake University, Hangzhou, China
+  * Undergraduate Project: Optogenetic Stimulator IC Design
+  * Supervisor: [Prof. Sawan](https://mohamadsawan.org/), Mentor: [Dr. Yang Jie](https://yangjie.ac.cn/)
 
 * Summer 2015: Research Assistant
   * GitHub University
