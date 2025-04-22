@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "中文"
+title: "简历"
 permalink: /chinese-version/
 author_profile: true
 redirect_from:
