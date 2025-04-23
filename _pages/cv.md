@@ -13,7 +13,7 @@ redirect_from:
 ======
 
 * M.Phil. in Microelectronics, Hong Kong University of Science and Technology (Guangzhou), August 2025 - present
-* B.S. in Optoelectronic Information Science and Engineering, ![image](https://github.com/user-attachments/assets/bace54fa-b032-4777-9e2b-0d39ba6fde74)
+* B.S. in Optoelectronic Information Science and Engineering, ![image](https://github.com/user-attachments/assets/bace54fa-b032-4777-9e2b-0d39ba6fde74 =600x600)
  Sun Yat-Sen University, September 2021 - June 2025
 
 💻 Work Experience
