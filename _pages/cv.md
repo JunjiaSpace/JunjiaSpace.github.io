@@ -42,10 +42,6 @@ redirect_from:
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
 
-🔥 News
-======
-* News 1
-* News 2
   
 Talks
 ======
