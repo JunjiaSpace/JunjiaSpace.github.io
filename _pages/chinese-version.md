@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "🧑‍💻 关于我"
+title: "关于我"
 permalink: /chinese-version/
 author_profile: true
 redirect_from:
