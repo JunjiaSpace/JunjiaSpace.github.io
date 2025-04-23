@@ -9,13 +9,13 @@ redirect_from:
 
 {% include base_path %}
 
-Education Background
+🎓 Education Background
 ======
 
 * M.Phil. in Microelectronics, Hong Kong University of Science and Technology (Guangzhou), August 2025 - present
 * B.S. in Optoelectronic Information Science and Engineering, Sun Yat-Sen University, September 2021 - June 2025
 
-Work Experience
+💻 Work Experience
 ======
 * May 2025 - August 2025: Research Assistant
   * Hong Kong University of Science and Technology(GZ), Guangzhou, China
@@ -31,12 +31,12 @@ Work Experience
   * Undergraduate Project: Optogenetic Stimulator IC Design
   * Supervisor: [Prof. Mohamad Sawan](https://mohamadsawan.org/), Mentor: [Dr. Yang Jie](https://yangjie.ac.cn/)
   
-Awards
+🏅 Awards
 ======
 * Awards 1
 * Awards 2
 
-Publications
+📝 Publications
 ======
   <ul>{% for post in site.publications reversed %}
     {% include archive-single-cv.html %}
