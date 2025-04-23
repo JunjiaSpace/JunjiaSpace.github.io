@@ -10,19 +10,19 @@ redirect_from:
 {% include base_path %}
 
 研究兴趣
-------
+======
 * 高速通信集成电路设计
 * 电源管理、模拟及混合信号集成电路设计
 
 教育背景
-------
+======
 * 微电子学哲学硕士
   * 2025年8月 - 现在，香港科技大学（广州），功能枢纽微电子学域
 * 光电信息科学与工程理学学士
   * 2021年9月 - 2025年6月，中山大学，物理学院
 
 工作经历
-------
+======
 * 2025年5月 - 2025年8月: 研究助理
   * 香港科技大学（广州）功能枢纽，广州，中国
   * 导师: [宗志锐教授](https://facultyprofiles.hkust-gz.edu.cn/faculty-personal-page/ZONG-Zhirui/zong)
@@ -38,7 +38,7 @@ redirect_from:
   * 导师：[Sawan讲席教授](https://mohamadsawan.org/)、[杨杰研究员](https://yangjie.ac.cn/)
   
 技能
-------
+======
 * Skill 1
 * Skill 2
   * Sub-skill 2.1
@@ -46,23 +46,23 @@ redirect_from:
 * Skill 3
 
 Publications
-------
+======
   <ul>{% for post in site.publications reversed %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
 Talks
-------
+======
   <ul>{% for post in site.talks reversed %}
     {% include archive-single-talk-cv.html  %}
   {% endfor %}</ul>
   
 Teaching
-------
+======
   <ul>{% for post in site.teaching reversed %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
 Service and leadership
-------
+======
 * Currently signed in to 43 different slack teams
