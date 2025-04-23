@@ -19,18 +19,18 @@ redirect_from:
 实习经历
 ======
 * 2025年5月 - 2025年8月: 研究助理
-  * Hong Kong University of Science and Technology(GZ), Guangzhou, China
-  * Supervisor: [Prof. Zhirui Zong](https://facultyprofiles.hkust-gz.edu.cn/faculty-personal-page/ZONG-Zhirui/zong)
+  * 香港科技大学（广州）功能枢纽，广州，中国
+  * 导师: [宗志锐教授](https://facultyprofiles.hkust-gz.edu.cn/faculty-personal-page/ZONG-Zhirui/zong)
 
-* 2025年2月 - 2025年4月: 实习生
-  * Westlake Lingxi Tech Co., Ltd, Hangzhou, China
-  * Duties includes: LDO and operational amplifier design based on electrical stimulator
-  * Mentor: [Dr. Yang Jie](https://yangjie.ac.cn/)
+* 2025年2月 - 2025年4月: 模拟IC设计实习生
+  * 西湖灵犀科技有限公司，杭州，中国
+  * 工作内容：基于脑机接口电刺激器的LDO和运算放大器的设计
+  * 导师：[杨杰研究员](https://yangjie.ac.cn/)
 
 * 2024年8月 - 2025年2月: 访问学生
-  * CenBRAIN of Westlake University, Hangzhou, China
-  * Undergraduate Project: Optogenetic Stimulator IC Design
-  * Supervisor: [Prof. Sawan](https://mohamadsawan.org/), Mentor: [Dr. Yang Jie](https://yangjie.ac.cn/)
+  * 西湖大学工学院，先进神经芯片中心，杭州，中国
+  * 本科毕业论文，用于光遗传神经调控的刺激器设计
+  * 导师：[Sawan讲席教授](https://mohamadsawan.org/)、[杨杰研究员](https://yangjie.ac.cn/)
   
 技能
 ======
