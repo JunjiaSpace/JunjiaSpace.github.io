@@ -41,6 +41,11 @@ redirect_from:
   <ul>{% for post in site.publications reversed %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
+
+🔥 News
+======
+* News 1
+* News 2
   
 Talks
 ======
