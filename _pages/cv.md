@@ -15,7 +15,7 @@ redirect_from:
 * M.Phil. in Microelectronics, Hong Kong University of Science and Technology (Guangzhou), August 2025 - present
 * B.S. in Optoelectronic Information Science and Engineering, Sun Yat-Sen University, September 2021 - June 2025
 
-💻 Work Experience
+📖 Work Experience
 ======
 * May 2025 - August 2025: Research Assistant
   * Hong Kong University of Science and Technology(GZ), Guangzhou, China
