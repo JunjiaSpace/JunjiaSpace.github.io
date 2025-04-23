@@ -9,6 +9,11 @@ redirect_from:
 
 {% include base_path %}
 
+研究兴趣
+======
+* 高速通信集成电路设计
+* 电源管理、模拟及混合信号集成电路设计
+
 教育背景
 ======
 * 微电子学哲学硕士
@@ -38,7 +43,6 @@ redirect_from:
 * Skill 2
   * Sub-skill 2.1
   * Sub-skill 2.2
-  * Sub-skill 2.3
 * Skill 3
 
 Publications
