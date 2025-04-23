@@ -31,7 +31,7 @@ redirect_from:
   * Undergraduate Project: Optogenetic Stimulator IC Design
   * Supervisor: [Prof. Mohamad Sawan](https://mohamadsawan.org/), Mentor: [Dr. Yang Jie](https://yangjie.ac.cn/)
   
-🏅 Awards
+🎖 Awards
 ======
 * Awards 1
 * Awards 2
