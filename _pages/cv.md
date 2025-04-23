@@ -10,13 +10,13 @@ redirect_from:
 {% include base_path %}
 
 Education Background
-------
+======
 
 * M.Phil. in Microelectronics, Hong Kong University of Science and Technology (Guangzhou), August 2025 - present
 * B.S. in Optoelectronic Information Science and Engineering, Sun Yat-Sen University, September 2021 - June 2025
 
 Work Experience
-------
+======
 * May 2025 - August 2025: Research Assistant
   * Hong Kong University of Science and Technology(GZ), Guangzhou, China
   * Supervisor: [Prof. Zhirui Zong](https://facultyprofiles.hkust-gz.edu.cn/faculty-personal-page/ZONG-Zhirui/zong)
@@ -32,28 +32,28 @@ Work Experience
   * Supervisor: [Prof. Sawan](https://mohamadsawan.org/), Mentor: [Dr. Yang Jie](https://yangjie.ac.cn/)
   
 Awards
-------
+======
 * Awards 1
 * Awards 2
 
 Publications
-------
+======
   <ul>{% for post in site.publications reversed %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
 Talks
-------
+======
   <ul>{% for post in site.talks reversed %}
     {% include archive-single-talk-cv.html  %}
   {% endfor %}</ul>
   
 Teaching
-------
+======
   <ul>{% for post in site.teaching reversed %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
 Service and leadership
-------
+======
 * Currently signed in to 43 different slack teams
