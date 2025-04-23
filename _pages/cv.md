@@ -29,7 +29,7 @@ Work Experience
 * August 2024 - February 2025: Visiting Student
   * [CenBRAIN](https://cenbrain.westlake.edu.cn/) of Westlake University, Hangzhou, China
   * Undergraduate Project: Optogenetic Stimulator IC Design
-  * Supervisor: [Prof. Sawan](https://mohamadsawan.org/), Mentor: [Dr. Yang Jie](https://yangjie.ac.cn/)
+  * Supervisor: [Prof. Mohamad Sawan](https://mohamadsawan.org/), Mentor: [Dr. Yang Jie](https://yangjie.ac.cn/)
   
 Awards
 ======
