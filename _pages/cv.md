@@ -9,12 +9,12 @@ redirect_from:
 
 {% include base_path %}
 
-Education
+Education Background
 ======
 * M.Phil. in Microelectronics, Hong Kong University of Science and Technology (Guangzhou), August 2025 - present
 * B.S. in Optoelectronic Information Science and Engineering, Sun Yat-Sen University, September 2021 - June 2025
 
-Internship
+Work Experience
 ======
 * May 2025 - August 2025: Research Assistant
   * Hong Kong University of Science and Technology(GZ), Guangzhou, China
