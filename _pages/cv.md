@@ -17,10 +17,6 @@ redirect_from:
 
 📖 Work Experience
 ======
-* May 2025 - August 2025: Research Assistant
-  * Hong Kong University of Science and Technology(GZ), Guangzhou, China
-  * Supervisor: [Prof. Zhirui Zong](https://facultyprofiles.hkust-gz.edu.cn/faculty-personal-page/ZONG-Zhirui/zong)
-
 * February 2025 - April 2025: Intern Student
   * Westlake Lingxi Tech Co., Ltd, Hangzhou, China
   * Duties includes: LDO and operational amplifier design based on electrical stimulator
